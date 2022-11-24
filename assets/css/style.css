@@ -55,6 +55,7 @@ a {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+    padding-top: 50px;
 }
 
 h2 {
@@ -86,13 +87,14 @@ h2 {
 }
 
 /* Benefits Sidebar */
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
+    margin-top: 50px;
     clear: both;
     float: right;
     width: 20%;
-    height: 100%;
+    height: 145%;
     background-color: #2589bd;
 }
 
