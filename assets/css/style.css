@@ -88,9 +88,9 @@ h2 {
 
 /* Benefits Sidebar */
 aside {
-    margin-right: 20px;
+   margin-right: 20px;
     padding: 20px;
-    padding-top: 50px;
+    margin-top: 50px;
     clear: both;
     float: right;
     width: 20%;
